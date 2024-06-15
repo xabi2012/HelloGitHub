@@ -1,0 +1,72 @@
+.hup{
+border: 2px solid red; 
+color: blue;
+text-align: center; 
+}
+.df{
+color: red;    
+}
+.gt{
+    color: darkgreen;
+    font-size: 30px;
+}
+.de{
+    color: red;
+}
+.fr{
+    color: yellow;
+}
+.se{
+    color: darkgreen;
+}
+.Ds{
+    color: blueviolet;
+}
+.ki{
+    background-color: yellow;
+}
+table{
+    width: 700px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr , td ,th {
+    border: 1px solid black;
+    background-color: red;
+}
+caption{
+    background-color: yellow;
+}
+#gh{
+    background-color: blueviolet;
+}
+.n{
+    background-color: green;
+}
+.j{
+    background-color: blueviolet;
+}
+.f{
+    background-color: blueviolet;
+}
+.p{
+    background-color: blueviolet;
+}
+.l{
+    background-color: blueviolet;
+}
+.k{
+    background-color: blueviolet;
+}
+.a{
+    background-color: darkgreen;
+}
+.e{
+    background-color: blueviolet;
+}
+tr{
+    background-color: blueviolet;
+}
+.op{
+    background-color: yellow;
+}
